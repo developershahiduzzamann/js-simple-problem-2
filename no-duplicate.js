@@ -1,0 +1,8 @@
+const biryanikhor = ['sabbir', 'topu', 'babu', 'tarik', 'sabbir', 'topu', 'tarik']
+const numbers = [11, 24, 56, 77, 11, 24, 25, 77, 56];
+
+function noDuplicate (array){
+    console.log(array)
+}
+const uniquueArray =noDuplicate(biryanikhor);
+console.log(uniquueArray);
