@@ -5,3 +5,4 @@
  console.log(max);
 
 console.log(Math.PI);
+console.log(Math.abs(-14));
