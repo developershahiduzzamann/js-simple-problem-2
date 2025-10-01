@@ -9,3 +9,6 @@ console.log(Math.abs(-14));
 console.log(Math.round(11.6));
 console.log(Math.floor(11.6));
 console.log(Math.ceil(11.65566));
+
+
+console.log(Math.random())
