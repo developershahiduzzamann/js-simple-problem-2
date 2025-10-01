@@ -6,3 +6,4 @@
 
 console.log(Math.PI);
 console.log(Math.abs(-14));
+console.log(Math.round(11.6));
