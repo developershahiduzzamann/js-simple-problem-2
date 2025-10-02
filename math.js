@@ -12,3 +12,4 @@ console.log(Math.ceil(11.65566));
 
 
 console.log(Math.random())
+console.log(Math.random()*10)
