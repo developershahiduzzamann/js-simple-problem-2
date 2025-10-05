@@ -11,3 +11,19 @@ else if (tim > jim && tim > kim){
 else{
     console.log('kim is the boss 3');
 }
+
+
+function getNumber(x1, x2, x3){
+     if(x1 > x2 && x1 > x3){
+        return x1;
+     }
+     else if(x2 > x1 && x2 > x3){
+        return x2;
+     }
+     else{
+        return x3;
+     }
+}
+
+const bigNum = getNumber(56, 78, 60);
+console.log(bigNum); 
