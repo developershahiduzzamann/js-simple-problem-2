@@ -16,5 +16,5 @@ function getPhone(phones){
     }
     return min;
 }
-const cheap = getPhone(phones)
-console.log(cheap)
+const cheap = getPhone(phones);
+console.log(cheap);

@@ -6,7 +6,7 @@ function getMin(numbers){
             min = num
         }
     }
-    return min
+    return min;
 }
 const min = getMin(prices);
 console.log('min value is', min);
