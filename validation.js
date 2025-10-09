@@ -7,3 +7,16 @@ function multiply (num1, num2){
 }
 const result = multiply(23, 7);
 console.log(result);
+
+function getString(sum1, sum2){
+    if(typeof sum1 !== 'string'){
+        return 'please provide a string'
+    }
+    else if(typeof sum2 !== 'string'){
+        return 'please provide a string'
+    }
+    const str = sum1 + ' ' + sum2;
+    return str
+}
+const rString = getString('Sabbir', 'Khan');
+console.log(rString);
