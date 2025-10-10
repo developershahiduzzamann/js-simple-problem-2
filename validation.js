@@ -18,5 +18,5 @@ function getString(sum1, sum2){
     const str = sum1 + ' ' + sum2;
     return str
 }
-const rString = getString('Sabbir', 'Khan');
-console.log(rString);
+const rString1 = getString('Sabbir', 'Khan');
+console.log(rString1);
